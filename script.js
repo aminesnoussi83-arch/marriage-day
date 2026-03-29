@@ -16,9 +16,11 @@ const noMessages = [
     "If you say no, I will be really sad...",
     "I will be very sad... 😢",
     "Please??? 💔",
-    "Don't do this to me...",
+    "Don't do this to me...ya bagra🐮",
     "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "wallah la3thim ma n3athbek fi 7yetek a chayta ya bawela",
+    "ya nekhthek eni ya ye5thek rabbi 😂",
+    "You can't catch me anyway w bel 3arbii 7awel chedni ken tnajem 😜"
 ]
 
 const yesTeasePokes = [
